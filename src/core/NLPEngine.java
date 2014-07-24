@@ -33,6 +33,7 @@ public class NLPEngine {
             tokens.add(stringTokenizer.nextToken());
         }
         System.out.println("Tokenized form: "+tokens);
+        System.out.println("ok?");
 
 
         // lowercase it
