@@ -35,7 +35,7 @@ public class NLPEngine {
         System.out.println("Tokenized form: "+tokens);
 
 
-        //lowercase it
+        // lowercase it
         // spell correction if required
         // remove duplicates
         // remove stop words
