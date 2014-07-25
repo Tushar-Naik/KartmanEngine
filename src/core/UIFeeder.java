@@ -13,7 +13,7 @@ import java.io.InputStreamReader;
  */
 public class UIFeeder {
 
-    public static void main(String args) throws IOException {
+    public static void main(String args[]) throws IOException {
 
         NLPEngine nlpEngine = new NLPEngine();
         StopWordRemover stopWordRemover = new StopWordRemover();
